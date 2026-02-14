@@ -1,12 +1,17 @@
+![logo](https://github.com/shahid2005a/DGTL-FF/blob/main/Dgtlff.png)
+
+
 # DGTL-FF
 DGTL FF REPO
 ### 𝕋𝔼ℝ𝕄𝕌𝕏 ℂ𝔸𝕄𝕄𝔸ℕ𝔻
 ```
 pkg update && pkg upgrade -y
 
+
 pkg install python
 
-pip install --upgrade pyTelegramBotAPI 
+
+pip install pyTelegramBotAPI termcolor
 
 
 pkg install php
@@ -14,7 +19,9 @@ pkg install php
 
 pkg install cloudflared
 
+
 pkg install git
+
 
 git clone https://github.com/shahid2005a/DGTL-FF.git
 
